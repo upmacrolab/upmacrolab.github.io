@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SARB Macro Lab at Tuks
-email: vincent.dadam@up.ac.za
+title: Macro Lab at Tuks
+email: charlvanschoor1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the South African Reserve Bank Macro Lab at the University of Pretoria
+  Website of the  Macro Lab at the University of Pretoria
 baseurl: #""
-url: https://sarb-macrolab-up.github.io/
+url: https://upmacrolab.github.io/
 
 include:
   - .htaccess
