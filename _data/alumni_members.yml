@@ -1,0 +1,29 @@
+- name: Giovanni Ricco
+  photo:
+  info: Professor at CREST - Ecole Polytechnique and the University of Warwick
+  email: giovanni.ricco@polytechnique.edu
+  website: <a href="https://www.giovanni-ricco.com/">www.giovanni-ricco.com</a>
+  number_educ: 0
+
+
+- name: Romain Houssa
+  photo:
+  info: Professor at the University of Namur, Centre of Research in the Economics of Development, Center for Research in Finance and Management,
+        Development Finance and Public Policies
+  email: romain.houssa@unamur.be
+  website: <a href="https://directory.unamur.be/staff/rhoussa">rhoussa</a>
+  number_educ: 0
+
+- name: Mehmet Balcilar
+  photo:
+  info: Professor at the University of New Haven
+  email: mbalcilar@newhaven.edu
+  website: <a href="https://mbalcilar.github.io/">www.mbalcilar.github.io</a>
+  number_educ: 0
+
+- name: Cyril Dell'Eva
+  photo:
+  info: Associate Professor at the University of Rouen, Laboratoire d'Economie Rouen Normandie
+  email: cyril.delleva@univ-rouen.fr
+  website: <a href="https://sites.google.com/view/cyrildelleva">sites.google.com/cyrildelleva</a>
+  number_educ: 0

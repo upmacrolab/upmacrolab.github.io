@@ -1,0 +1,54 @@
+
+- link:
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2023/enhancing-the-quarterly-projection-model
+    display: <b>Enhancing the Quarterly Projection Model</b>
+  image:
+  authors: <b>E. Pirozhkova, J. Rakgalakane, L. Soobyah R. Steinbach. 2023.</b>
+  description: <b>Abstract:</b> Over the last decade, fiscal dynamics moved to the forefront of monetary policy deliberations. Elevated country risk premia associated with rising government debt have weighed on the exchange rate, at times fuelling imported inflationary pressures. In addition, fiscal policy actions have impacted economic activity, particularly the stimulus required during COVID-19 recession. This paper documents extensions to the South African Reserve Bank’s Quarterly Projection Model that parsimoniously capture these key channels from fiscal metrics to growth and inflation and their feedback to fiscal outcomes. The paper discusses refinements to the model’s equilibrium uncovered interest parity condition, which determines the domestic neutral real interest rate, as well as enhancements to the risk channel, labour block and drivers of inflation. It also proposes an updated specification for the Taylor rule.
+  highlight: 0
+  news2:
+
+- link:
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2023/investigating-unemployment-hysteresis-in-south-africa
+    display: <b>Investigating unemployment hysteresis in South Africa</b>
+  image:
+  authors: <b>V. Dadam N. Viegi. 2023.</b>
+  description: <b>Abstract:</b> This paper investigates hysteresis in South Africa’s unemployment. First we test the presence of hysteresis in unemployment using traditional stationarity tests and non-linear transformation methods to identify two further characteristics of hysteresis, namely remanence and selective memory. In the second part of the paper we estimate a simple insider-outsider model using a Bayesian vector autoregression methodology to identify the shocks driving unemployment dynamics. The main finding is that mark-up shocks and negative productivity shocks are the main drivers of unemployment, with demand shocks playing a secondary role. Nominal wages are not responsive to real shocks and are an important component of inflation. These results point to the difficulty of absorbing the current level of unemployment without a significant increase in the flexibility of goods and labour markets. At the same time, the evidence suggests that, if reforms are being implemented, demand policies can play a significant role in improving employment and growth, reversing the structural unemployment evident in the data.
+  highlight: 0
+  news2:
+
+- link:
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2023/is-south-africa-falling-into-a-fiscal-dominant-regime
+    display: <b>Is South Africa falling into a fiscal-dominant regime</b>
+  image:
+  authors: <b>L. Soobyah, M. Mamburu, N. Viegi. 2023.</b>
+  description: <b>Abstract:</b> The sustainability of fiscal policy has been at the forefront of policy analysis since the global financial crisis and subsequent debt crises. With the elevated government debt levels observed globally, the emergence of fiscal dominance has caused some concern. In this paper we assess whether there was or is evidence of fiscal dominance in South Africa by determining periods in which fiscal and monetary policy was passive or active. By estimating a Markov switching model on the reaction functions of a fiscal and monetary policy rule, we find that there has been some evidence of fiscal dominance in South Africa since 2016.
+  highlight: 0
+  news2:
+
+- link:
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2022/CanNationalTreasurydocontractionarymonetarypolicy
+    display: <b>Can National Treasury do contractionary monetary policy?</b>
+  image:
+  authors: <b>L. Soobyah, N. Viegi. 2022.</b>
+  description: <b>Abstract:</b> The long end of the South African yield curve has remained sticky and high for quite some time now, despite a low interest rate environment. In this paper we analyse the role of fiscal policy and its debt maturity structure which is producing this "monetary contraction" through its effect on the long end of the yield curve. We consider National Treasury’s government bond switch auction programme and its impact on bond yields and the economy. We show that these switch auction announcements have resulted in increased yields and shocks to bond prices via increased modified duration or price sensitivity. Using these shocks to bond prices as an instrument for debt, we find that the switches have also resulted in a contractionary effect on output and monetary policy.
+  highlight: 0
+  news2:
+
+- link:
+    url: https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2021/sailing-into-the-wind--evaluating-the--near--future-of-monetary-
+    display: <b>Sailing into the Wind evaluating the (near) future of Monetary Policy in South Africa</b>
+  image:
+  authors: <b>T. Loate, E. Pirozhkova and N. Viegi. 2021.</b>
+  description: <b>Abstract:</b> This paper evaluates the main challenges facing South African monetary policy. We focus on three main issues - the external environment, the growth potential of the economy and its fiscal balance. The external environment will remain uncertain and volatile and South Africa monetary policy should increase the number of tools available to deal with external volatility. Low growth puts pressure on monetary policy, but monetary policy can help in promoting growth only if there are corresponding reforms in South Africa’s labour market, investment climate and growth strategy. Finally, the fiscal balance represents the most immediate risk to the country’s macroeconomic stability but monetary policy can provide the necessary support to the economy in a context of a credible commitment to fiscal stabilisation and longterm economic reforms. Inflation targeting provides the necessary flexibility and can accommodate new instruments and monetary practices.
+  highlight: 0
+  news2:
+
+#-link:
+#    url:
+#    display:
+#  image:
+#  authors:
+#  description: <b>Abstract:</b>
+#  highlight: 0
+#  news2:
