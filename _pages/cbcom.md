@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Central Bank Communications"
+title: "Macro Lab at Tuks - Central Bank Communications"
 layout: textlay
-excerpt: "SARB Macro Lab at Tuks -- Research"
+excerpt: "Macro Lab at Tuks -- Research"
 sitemap: false
 permalink: /cbcom.html/
 ---

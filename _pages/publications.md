@@ -1,5 +1,5 @@
 ---
-title: "SARB Macro Lab at Tuks - Publications"
+title: "Macro Lab at Tuks - Publications"
 layout: gridlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false

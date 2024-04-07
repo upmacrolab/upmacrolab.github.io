@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Contact us"
+title: "Macro Lab at Tuks - Contact us"
 layout: textlay
-excerpt: "SARB Macro Lab at Tuks -- Contact us"
+excerpt: "Macro Lab at Tuks -- Contact us"
 sitemap: false
 permalink: /research/
 ---

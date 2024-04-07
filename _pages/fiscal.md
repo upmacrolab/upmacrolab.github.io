@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Fiscal"
+title: "Macro Lab at Tuks - Fiscal"
 layout: textlay
-excerpt: "SARB Macro Lab at Tuks -- Fiscal"
+excerpt: "Macro Lab at Tuks -- Fiscal"
 sitemap: false
 permalink: /fiscal.html/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Labour"
+title: "Macro Lab at Tuks - Labour"
 layout: textlay
-excerpt: "SARB Macro Lab at Tuks -- Labour"
+excerpt: "Macro Lab at Tuks -- Labour"
 sitemap: false
 permalink: /otherpubli.html/
 ---

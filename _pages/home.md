@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks"
+title: "Macro Lab at Tuks"
 layout: homelay
-excerpt: "SARB Macro Lab at the University of Pretoria"
+excerpt: "Macro Lab at the University of Pretoria"
 sitemap: #false
 permalink: /
 ---
@@ -58,7 +58,7 @@ permalink: /
 
 <center>
 <figure class="second">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sarb.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tuks.png" style="width: 250px">
 </figure>
 </center>

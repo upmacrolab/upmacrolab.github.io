@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Team"
+title: "Macro Lab at Tuks - Team"
 layout: gridlay
-excerpt: "SARB Macro Lab: Team members"
+excerpt: "Macro Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

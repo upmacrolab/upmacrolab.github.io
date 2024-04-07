@@ -1,7 +1,7 @@
 ---
-title: "SARB Macro Lab at Tuks - Macro modelling and forecast"
+title: "Macro Lab at Tuks - Macro modelling and forecast"
 layout: textlay
-excerpt: "SARB Macro Lab at Tuks -- Research"
+excerpt: "Macro Lab at Tuks -- Research"
 sitemap: false
 permalink: /forecast.html/
 ---
