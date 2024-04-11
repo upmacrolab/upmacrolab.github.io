@@ -6,7 +6,7 @@ sitemap: false
 permalink: /forecast.html/
 ---
 
-# Macroeconomic Modelling and Forecast
+# Inflation and Monetary Policy
 
 <p align="justify"> You will find here research categorized in terms of macro modelling and forecasting exercises. This is include work in progress as well as recent publications</p>
 
