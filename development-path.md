@@ -25,5 +25,23 @@
 
 
 
+## Next steps
+
+
+### Pages 
+* UP-Macrolab - the naming on all pages 
+* Homepage 
+    * remove text (welcome... and bottom text - move to about)
+    * sliding images must link to papers and containt relevant summary of the paper 
+* teams page: 
+    * add the about to the teams page 
+* Contact:
+    * email and other social 
+
+* Select papers and have text on it 
+
+* remove the news from the homepage 
+
+* change the navbar color 
 
 
