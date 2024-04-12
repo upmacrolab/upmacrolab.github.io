@@ -18,12 +18,24 @@
 
 ## Functionality 
 11-04-2024
-* Functionality is an issue (no backend)
+* Functionality is an issue (no backend) - contact form is infeasible
 * Email is an issue 
 * Storing data is an issue (no post)
 * Sharing data is an issue (no get)
 
 
+## Next steps
+
+
+### Pages 
+* UP-Macrolab - the naming on all pages 
+* Homepage 
+    * remove text (welcome... and bottom text - move to about)
+    * sliding images must link to papers and containt relevant summary of the paper 
+* teams page: 
+    * add the about to the teams page 
+* Contact:
+    * email and other social 
 
 
 
