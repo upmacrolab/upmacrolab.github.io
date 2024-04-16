@@ -14,4 +14,9 @@ permalink: /macropru.html/
 
 ## Current research
 
-- <p align="justify"> Analysing the effects of regulatory changes on bank lending, following a call for papers by the SARB. We consider two type of regulation that should be considered together, as they may be contradictory. One is macro-prudential regulation which wants more safety in the banking system, especially from the big banks, that are systematic, while financial regulation aims to encourage banks to enter in more risky markets. Therefore, the two types of regulation are potentially not compatible. 
+- <p align="justify"> Analysing the effects of regulatory changes on bank lending, following a call for papers by the SARB. We consider two type of regulation that should be considered together, as they may be contradictory. One is macro-prudential regulation which wants more safety in the banking system, especially from the big banks, that are systematic. There is also financial regulation which aims to improve financial inclusion, potentially encouraging banks to enter in more risky markets. Therefore, the two types of regulation are potentially not compatible. 
+
+
+## 
+
+- <p align="justify"> This paper provides the groundwork for investigating the effects of macroprudential regulation in South Africa. We build and introduce a narrative series capturing macroprudential regulatory reforms and evaluate the effects of the reforms on credit extension and the macroeconomy. 
