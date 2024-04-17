@@ -33,20 +33,7 @@
     * remove text (welcome... and bottom text - move to about)
     * sliding images must link to papers and containt relevant summary of the paper 
 * teams page: 
-    * add the about to the teams page 
-* Contact:
-    * email and other social 
-
-## Next steps
-
-
-### Pages 
-* UP-Macrolab - the naming on all pages 
-* Homepage 
-    * remove text (welcome... and bottom text - move to about)
-    * sliding images must link to papers and containt relevant summary of the paper 
-* teams page: 
-    * add the about to the teams page 
+    * add the about to the teams page  - done
 * Contact:
     * email and other social 
 
@@ -56,4 +43,4 @@
 
 * change the navbar color 
 
-
+ 

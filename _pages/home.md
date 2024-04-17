@@ -1,7 +1,7 @@
 ---
-title: "Macro Lab at Tuks"
+title: "UP-Macro Lab"
 layout: homelay
-excerpt: "Macro Lab at the University of Pretoria"
+excerpt: "UP-Macro Lab"
 sitemap: #false
 permalink: /
 ---
@@ -48,10 +48,6 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<p align="justify">The South African Reserve Bank Chair at the University of Pretoria was instituted in 2007 with the objective of advancing research in monetary policy studies. We work closely with the Economic Department of the South African Reserve Bank on topics relevant to the South African economy while keeping in touch with recent developments at the international scene. Specifically, we focus in the areas of macroeconomic modelling, forecasting, fiscal and monetary policy coordination, credit market, central banking communication and labour market macro modelling.</p>
-
-<p align="justify">Through supervision of master and Ph.D students  and the organization of annual workshops, we hope to spark interest in research on the aforementioned topics and beyond. This allows us to reach out to a broader audience for a fruitful discussion among peers and contribution to debates on relevant topics.</p>
 
 
 
