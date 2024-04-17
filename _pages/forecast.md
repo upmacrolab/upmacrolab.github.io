@@ -1,7 +1,7 @@
 ---
-title: "Macro Lab at Tuks - Macro modelling and forecast"
+title: "UP-Macro Lab - Macro modelling and forecast"
 layout: textlay
-excerpt: "Macro Lab at Tuks -- Research"
+excerpt: "UP-Macro Lab -- Research"
 sitemap: false
 permalink: /forecast.html/
 ---
