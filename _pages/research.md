@@ -1,91 +1,49 @@
 ---
-title: "Macro Lab at Tuks - Contact us"
-layout: textlay
-excerpt: "Macro Lab at Tuks -- Contact us"
+title: "Macro Lab at Tuks - Research"
+layout: gridlay
+excerpt: "Allan Lab -- Publications."
 sitemap: false
 permalink: /research/
 ---
 
-# Contact Us
+
+# Research
 
 
-### Physical Address
+{% assign number_printed = 0 %}
+{% for publi in site.data.resea %}
 
-Tukkiewerf
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
 
-University of Pretoria
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-Cnr Lynnwood and University Roads
-
-Hatfield
-
-0083
-
-
-
-### Department of Economics
-
-Private bag X20
-
-Hatfield
-
-0028
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box;}
-
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-input[type=submit] {
-  background-color: blue;
-  color: white;
-  padding: 5px 10px;
-  border: none;
-  border-radius: 3px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-</style>
-</head>
-<body>
-
-<h3>Connect with us</h3>
-
-<div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
 </div>
 
-</body>
-</html>
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+

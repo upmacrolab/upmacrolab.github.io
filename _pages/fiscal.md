@@ -1,7 +1,7 @@
 ---
-title: "Macro Lab at Tuks - Fiscal"
+title: "UP-Macro Lab - Fiscal"
 layout: textlay
-excerpt: "Macro Lab at Tuks -- Fiscal"
+excerpt: "UP-Macro Lab -- Fiscal"
 sitemap: false
 permalink: /fiscal.html/
 ---

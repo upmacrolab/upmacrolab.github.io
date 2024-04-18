@@ -18,12 +18,43 @@
 
 ## Functionality 
 11-04-2024
-* Functionality is an issue (no backend)
+* Functionality is an issue (no backend) - contact form is infeasible
 * Email is an issue 
 * Storing data is an issue (no post)
 * Sharing data is an issue (no get)
 
 
+## Next steps
 
 
+### Pages 
+11-04-2024
+* UP-Macrolab - the naming on all pages 
+* Homepage 
+    * remove text (welcome... and bottom text - move to about)
+    * sliding images must link to papers and containt relevant summary of the paper 
+* teams page: 
+    * add the about to the teams page  - done
+* Contact:
+    * email and other social 
 
+* Select papers and have text on it 
+* remove the news from the homepage 
+* change the navbar color 
+
+# Next Steps
+18-04-2024
+* Contact us - add socials and email 
+* Updated homepage carousel
+    * image must be link
+    * Images must look better 
+    * images must have text 
+* Update research page to show images etc. 
+* Update news to look better 
+* navbar color 
+* Footer must be at the bottom of all pages
+* Margins are too wide 
+
+### What I need from the team: 
+* update research markdowns 
+* For each piece of work on homepage I need a paragraph descirbing what is going on 

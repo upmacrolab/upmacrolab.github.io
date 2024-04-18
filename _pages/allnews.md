@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Macro Lab at the University of Pretoria"
+excerpt: "UP-Macro Lab"
 sitemap: false
 permalink: /allnews.html
 ---
