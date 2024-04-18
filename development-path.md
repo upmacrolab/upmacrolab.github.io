@@ -28,6 +28,7 @@
 
 
 ### Pages 
+11-04-2024
 * UP-Macrolab - the naming on all pages 
 * Homepage 
     * remove text (welcome... and bottom text - move to about)
@@ -38,9 +39,22 @@
     * email and other social 
 
 * Select papers and have text on it 
-
 * remove the news from the homepage 
-
 * change the navbar color 
 
- 
+# Next Steps
+18-04-2024
+* Contact us - add socials and email 
+* Updated homepage carousel
+    * image must be link
+    * Images must look better 
+    * images must have text 
+* Update research page to show images etc. 
+* Update news to look better 
+* navbar color 
+* Footer must be at the bottom of all pages
+* Margins are too wide 
+
+### What I need from the team: 
+* update research markdowns 
+* For each piece of work on homepage I need a paragraph descirbing what is going on 
