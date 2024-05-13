@@ -21,12 +21,12 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/repo.jpg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time_dimension_over_time_guidances.pdf" width="900" height="500" alt="Slide 1" />
             <div class="text">
-              <h3>Title of this work</h3>
-              <p> Publish Date: </p>
-              <p> Authors: </p>
-              <p>This is the text for Image 1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              <h3>Policy Communications and Market Reactions: Evidence for the SARB</h3>
+              <p> Publish Date: 2023</p>
+               <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
+              <p>After the GFC central banks turned to communication strategies in order to anchor expectations. A decade on, the question remains whether communication can be used in such a way. We explore the relationship between SARB MPC statements and market surprises at a text-data level, and find that overal the implimentation of forward looking language has reduced overal shocks
               </p>      
             </div>
         </div>
