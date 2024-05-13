@@ -58,3 +58,9 @@
 ### What I need from the team: 
 * update research markdowns 
 * For each piece of work on homepage I need a paragraph descirbing what is going on 
+
+# TikTok content ideas 
+* record seminars and transform into 1 minute tiktoks
+
+# Completed Tasks
+* 

@@ -12,10 +12,12 @@
   position: relative;
   overflow: hidden;
   width: 100%;
-
+  // background-color: #cfd8dc;
+  
   > .item {
     display: none;
     position: relative;
+    // background-color: #cfd8dc;
     @include transition(.6s ease-in-out left);
 
     // Account for jankitude on images
