@@ -64,3 +64,22 @@
 
 # Completed Tasks
 * 
+
+
+Homepage - title must link to paper 
+Markdown template
+Short paragraph 
+bullet points pointing to papers 
+papers: 
+    Title 
+    Author 
+    Pub date 
+    Abstract 
+    Link to the paper 
+
+Color scheme 
+Logo 
+Remove news and replace with data 
+
+
+
