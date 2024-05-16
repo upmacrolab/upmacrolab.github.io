@@ -20,7 +20,7 @@ permalink: /cbcom.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
@@ -45,7 +45,7 @@ permalink: /cbcom.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
@@ -70,7 +70,7 @@ permalink: /cbcom.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sankey_gmm_8_topics.pdf" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sankey_gmm_8_topics.pdf" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
