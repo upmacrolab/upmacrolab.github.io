@@ -20,12 +20,12 @@ permalink: /fiscal.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Title</h2>
+  <h2>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h2>
   <!-- replace author with your name and link -->
   <p> Author: <a href="https://charlvschoor.github.io/">Tumisang Loate</a>, Nicola Viegi </p>
   <!-- replace with the date of publication -->
@@ -45,16 +45,16 @@ permalink: /fiscal.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/sentiment_time_guidance.pdf" alt="Conditional forecasting"  width="400" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Title</h2>
+  <h2>The macroeconomic effect of fiscal policy in South Africa</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://charlvschoor.github.io/">Tumisang Loate </a>, Romain Houssa and Nicola </p>
+  <p> Author: <a href="https://charlvschoor.github.io/">Tumisang Loate </a>, Romain Houssa and Nicola </p>
   <!-- replace with the date of publication -->
-  <p>Publish Date</p>
+  <p>Publish Date: 10-2021</p>
   <!-- replace with your text -->
   <p align="justify"> Evidence using narratively identified personal income tax shocks indicate that the observed expansionary effect of tax cuts is mainly driven by changes in marginal tax rates. However, these tax changes are not tax neutral. </p>
   <!-- replace with your paper link -->
