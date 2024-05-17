@@ -8,7 +8,7 @@ permalink: /fiscal.html/
 
 # Fiscal Policy
 
-<p align="justify"> With ever increasing government spending pressures to address societal and development goals and the need to grow the economy, the role of fiscal policy remains immeasurable in emerging countries such as South Africa. We seek to answer the following three broad questions. What are the macroeconomic effects of government spending and tax policy? What are the implications of the interaction of fiscal policy with monetary policy on the economy? How can fiscal policy act as an effective shock-absorber to global shocks? We week to answer these questions using a data-driven approach. </p>
+<p align="justify"> With ever increasing government spending pressures to address societal and development goals and the need to grow the economy, the role of fiscal policy remains immeasurable in emerging countries such as South Africa. We seek to answer the following three broad questions. What are the macroeconomic effects of government spending and tax policy? What are the implications of the interaction of fiscal policy with monetary policy on the economy? How can fiscal policy act as an effective shock-absorber to global shocks? We seek to answer these questions using a data-driven approach. </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
 * [Is monetary policy to be blame for South Africa’s stagnation? No](#first-paper-research-question-answer)
 * [Do tax cuts stimulate the economy in South Africa? It depends](#second-paper-research-question-answer)
