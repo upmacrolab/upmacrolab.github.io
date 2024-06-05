@@ -10,6 +10,7 @@ permalink: /news/
 # News
 
 
-<div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+<div class="well">
+  <h4>Data</h4>
+  <p>this is where data links will go</p>
+</div>

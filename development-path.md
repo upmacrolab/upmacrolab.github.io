@@ -58,3 +58,28 @@
 ### What I need from the team: 
 * update research markdowns 
 * For each piece of work on homepage I need a paragraph descirbing what is going on 
+
+# TikTok content ideas 
+* record seminars and transform into 1 minute tiktoks
+
+# Completed Tasks
+* 
+
+
+Homepage - title must link to paper 
+Markdown template
+Short paragraph 
+bullet points pointing to papers 
+papers: 
+    Title 
+    Author 
+    Pub date 
+    Abstract 
+    Link to the paper 
+
+Color scheme 
+Logo 
+Remove news and replace with data 
+
+
+
