@@ -83,3 +83,15 @@ Remove news and replace with data
 
 
 
+
+
+Redo the research page to be vertical (1 column bt multiple rows) layout
+Thumi's merge - fix 
+Maybe black background (maybe)
+Fix the logo 
+
+
+
+
+
+
