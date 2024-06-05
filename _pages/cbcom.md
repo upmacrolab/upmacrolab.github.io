@@ -8,7 +8,7 @@ permalink: /cbcom.html/
 
 # Central Bank Communication
 
-<p align="justify"> Your work stream summary paragraph </p>
+<p align="justify"> This workstream focuses on monetary policy and market reactions. Specifically, we are interested in whether policy information communicated in policy announcements drive market responses. We first focus on  policy decisions, market forecasts and disagreements and find that markets react both expectedly and unexpectedly, pointing to an information signal. We then model language extensively which is used to correlate with market reactions. One limiting factor was subsetting the data, for which we trained a transformer neural network to improve outcomes.   </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
 * [Do markets react to policy announcements: Yes, and unexpectedly](#do-markets-react-to-policy-announcements-yes-and-unexpectedly)
 * [SARB policy announcement using various NLP approaches: A telling story](#sarb-policy-announcement-using-various-nlp-approaches-a-telling-story)
