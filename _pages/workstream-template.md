@@ -3,7 +3,7 @@ title: "UP-Macro Lab - Central Bank Communications"
 layout: textlay
 excerpt: "UP-Macro Lab -- Research"
 sitemap: false
-permalink: /cbcom.html/
+# permalink: /cbcom.html/
 ---
 
 # Central Bank Communication
