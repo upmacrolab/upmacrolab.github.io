@@ -21,7 +21,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time_dimension_over_time_guidances.pdf" width="900" height="500" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="900" height="500" alt="Slide 1" />
             <div class="text">
               <h3>Policy Communications and Market Reactions: Evidence for the SARB</h3>
               <p> Publish Date: 2023</p>
