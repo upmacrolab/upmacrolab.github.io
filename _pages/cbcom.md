@@ -18,7 +18,7 @@ permalink: /cbcom.html/
 
 <!-- Divider -->
 ---
-## Do markets react to policy announcements: Yes, and unexpectedly
+### Do markets react to policy announcements: Yes, and unexpectedly
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
@@ -43,7 +43,7 @@ permalink: /cbcom.html/
 <!-- Divider -->
 ---
 
-## SARB policy announcement using various NLP approaches: A telling story
+### SARB policy announcement using various NLP approaches: A telling story
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -68,7 +68,7 @@ permalink: /cbcom.html/
 <!-- Divider -->
 ---
 
-## How do markets react to policy announcements: Information is important
+### How do markets react to policy announcements: Information is important
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -92,7 +92,7 @@ permalink: /cbcom.html/
 
 
 
-## Similarity transformer network for small corpora
+### Similarity transformer network for small corpora
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
