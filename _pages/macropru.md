@@ -21,8 +21,8 @@ permalink: /macropru.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/volumes2.jpg" alt="Conditional forecasting"  width="800" height="300"/> 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/volumes2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
 
 
 
@@ -47,8 +47,8 @@ permalink: /macropru.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/draft2.png" alt="Conditional forecasting"  width="700" height="300"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/impl2.png" alt="Conditional forecasting"  width="700" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/draft2.png" alt="Conditional forecasting"  width="500" height="300"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/impl2.png" alt="Conditional forecasting"  width="500" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
