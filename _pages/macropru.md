@@ -29,7 +29,7 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h3>X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi. </h3>
+  <h4>X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi. </h4>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
@@ -53,7 +53,7 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h3>K. Mncube</h3>
+  <h4>K. Mncube</h4>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
@@ -78,7 +78,7 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h3>K. Mncube</h3>
+  <h4>K. Mncube</h4>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
   <!-- replace with the date of publication -->
