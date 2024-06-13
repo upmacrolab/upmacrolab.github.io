@@ -17,7 +17,7 @@ permalink: /fiscal.html/
 
 <!-- Divider -->
 ---
-## Is monetary policy to be blame for South Africa’s stagnation? No
+### Is monetary policy to be blame for South Africa’s stagnation? No
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
@@ -42,7 +42,7 @@ permalink: /fiscal.html/
 <!-- Divider -->
 ---
 
-## Do tax cuts stimulate the economy in South Africa? It depends
+### Do tax cuts stimulate the economy in South Africa? It depends
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
