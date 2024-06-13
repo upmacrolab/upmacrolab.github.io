@@ -17,7 +17,7 @@ permalink: /macropru.html/
 
 
 
-## Regulation and bank lending in South Africa: A narrative index approach: Answer
+### Regulation and bank lending in South Africa: A narrative index approach: Answer
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
@@ -43,7 +43,7 @@ permalink: /macropru.html/
 
 <!-- Divider -->
 ---
-## Bank lending and macroprudential regulation: A narrative approach: Answer
+### Bank lending and macroprudential regulation: A narrative approach: Answer
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -69,7 +69,7 @@ permalink: /macropru.html/
 <!-- Divider -->
 ---
 
-## Timeline of major macroprudential regulatory changes: Answer
+### Timeline of major macroprudential regulatory changes: Answer
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
