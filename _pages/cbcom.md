@@ -27,7 +27,7 @@ permalink: /cbcom.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Monetary Policy and Market Reaction: Evidence from South Africa</h2>
+  <h3>Monetary Policy and Market Reaction: Evidence from South Africa</h3>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
   <!-- replace with the date of publication -->
@@ -52,7 +52,7 @@ permalink: /cbcom.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Contemporary Computational Linguistics: Applications for South Africa</h2>
+  <h3>Contemporary Computational Linguistics: Applications for South Africa</h3>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
   <!-- replace with the date of publication -->
@@ -77,7 +77,7 @@ permalink: /cbcom.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Central Bank Communications and Market Reaction: Evidence from South Africa</h2>
+  <h3>Central Bank Communications and Market Reaction: Evidence from South Africa</h3>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
   <!-- replace with the date of publication -->
@@ -101,7 +101,7 @@ permalink: /cbcom.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>Simtran: Similarity Transformer Architecture for Language Classification Tasks</h2>
+  <h3>Simtran: Similarity Transformer Architecture for Language Classification Tasks</h3>
   <!-- replace author with your name and link -->
   <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor, Ruan van der Merwe</a> </p>
   <!-- replace with the date of publication -->
