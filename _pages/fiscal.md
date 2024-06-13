@@ -26,7 +26,7 @@ permalink: /fiscal.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h3>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h3>
+  <h4>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h4>
   <!-- replace author with your name and link -->
   <p> Author: <a href="https://charlvschoor.github.io/">Tumisang Loate</a>, Nicola Viegi </p>
   <!-- replace with the date of publication -->
@@ -51,7 +51,7 @@ permalink: /fiscal.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h3>The macroeconomic effect of fiscal policy in South Africa</h3>
+  <h4>The macroeconomic effect of fiscal policy in South Africa</h4>
   <!-- replace author with your name and link -->
   <p> Author: <a href="https://charlvschoor.github.io/">Tumisang Loate </a>, Romain Houssa and Nicola </p>
   <!-- replace with the date of publication -->
