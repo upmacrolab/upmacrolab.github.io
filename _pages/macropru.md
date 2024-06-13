@@ -73,7 +73,7 @@ permalink: /macropru.html/
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/timeline.jpg" alt="Conditional forecasting"  width="500" height="600"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/timeline.jpg" alt="Conditional forecasting"  width="500" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
