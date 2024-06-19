@@ -11,27 +11,27 @@ permalink: /macropru.html/
 
 <p align="justify"> Research in this section focuses on understanding and investigating the role of bank regulation, particularly (macro) prudential in influencing banking sector behaviour    </p>
 <!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
-* [Regulation and bank lending in South Africa: A narrative index approach: Intended](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach-intended)
-* [Bank lending and macroprudential regulation: A narrative approach: Intended](#bank-lending-and-macroprudential-regulation-a-narrative-approach-intended)
-* [Timeline of major macroprudential regulatory changes: COL](#timeline-of-major-macroprudential-regulatory-changes-col)
+* [Regulation and bank lending in South Africa: A narrative index approach](#regulation-and-bank-lending-in-south-africa-a-narrative-index-approach)
+* [Bank lending and macroprudential regulation: A narrative approach](#bank-lending-and-macroprudential-regulation-a-narrative-approach)
+* [Timeline of major macroprudential regulatory changes](#timeline-of-major-macroprudential-regulatory-changes)
 
 
 
-## Regulation and bank lending in South Africa: A narrative index approach: Intended
+## Regulation and bank lending in South Africa: A narrative index approach
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/volumes2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
+   
 
 
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi. </h2>
+  <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
@@ -43,19 +43,19 @@ permalink: /macropru.html/
 
 <!-- Divider -->
 ---
-## Bank lending and macroprudential regulation: A narrative approach: Intended
+## Bank lending and macroprudential regulation: A narrative approach
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/draft2.png" alt="Conditional forecasting"  width="500" height="300"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/impl2.png" alt="Conditional forecasting"  width="500" height="300"/>
+    
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>K. Mncube</h2>
+  <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
@@ -69,7 +69,7 @@ permalink: /macropru.html/
 <!-- Divider -->
 ---
 
-## Timeline of major macroprudential regulatory changes: COL
+## Timeline of major macroprudential regulatory changes
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -78,9 +78,9 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
-  <h2>K. Mncube</h2>
+  <h2>Major macroprudential regulatory changes in South Africa.</h2>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">keamncube.github.io</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
