@@ -4825,24 +4825,26 @@ tbody.collapse.in {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
+  background-color: #4c88e9;
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
   color: #333333;
+  font-size: 25px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #333333;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #555555;
+  color: #333333;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #999999;
+  color: #ffffff;
+  font-size: 20px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #333333;
+  color: #565454;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -4857,10 +4859,10 @@ tbody.collapse.in {
   border-color: #eeeeee;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #fff;
+  background-color: #565454;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #999999;
+  background-color: #ffffff;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
@@ -7556,6 +7558,57 @@ figcaption {
   margin-bottom: 20px;
 }
 
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* tiktok */
+.fa-tiktok {
+  background: #55ACEE;
+  color: white;
+}
+
+/* linkedin */
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+}
+
+/* github */
+.fa-github {
+  background: #171716;
+  color: white;
+}
+
+/* envelope */
+.fa-envelope {
+  background: #39403c;
+  color: white;
+}
+
 /* Top navigation bar */
 p.byline {
   text-align: center;
@@ -7580,7 +7633,7 @@ pubtit {
   text-align: left;
 }
 
-#homeidtmp h1 {
+#homeid h1 {
   text-align: center;
 }
 

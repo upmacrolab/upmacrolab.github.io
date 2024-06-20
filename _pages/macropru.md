@@ -18,6 +18,8 @@ permalink: /macropru.html/
 
 
 ## Regulation and bank lending in South Africa: A narrative index approach
+=======
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
     <!-- replace with your paper figure -->
@@ -29,7 +31,9 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
+
   <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
+
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
@@ -44,6 +48,8 @@ permalink: /macropru.html/
 <!-- Divider -->
 ---
 ## Bank lending and macroprudential regulation: A narrative approach
+=======
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
@@ -53,7 +59,9 @@ permalink: /macropru.html/
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
+
   <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
+
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->
@@ -69,16 +77,20 @@ permalink: /macropru.html/
 <!-- Divider -->
 ---
 
+
 ## Timeline of major macroprudential regulatory changes
+
 <div class="row">
   <div class="col col-md-6" markdown="0">
   <!-- replace with your paper figure -->
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/timeline.jpg" alt="Conditional forecasting"  width="500" height="600"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/timeline.jpg" alt="Conditional forecasting"  width="500" height="300"/>
 
   </div>
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
+
   <h2>Major macroprudential regulatory changes in South Africa.</h2>
+
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
   <!-- replace with the date of publication -->

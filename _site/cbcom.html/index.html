@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Macro Lab at Tuks - Central Bank Communications</title>
-  <meta name="description" content="Macro Lab at Tuks -- Research">
+  <title>UP-Macro Lab - Central Bank Communications</title>
+  <meta name="description" content="UP-Macro Lab -- Central Bank Communications">
   <link rel="stylesheet" href="http://localhost:4000/css/main.css">
   <link rel="canonical" href="http://localhost:4000/cbcom.html/">
 <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/webicon.png">
@@ -27,32 +27,136 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
-
-    <a class="navbar-brand" href="http://localhost:4000/">Macro Lab at the University of Pretoria</a>
+ 
+    <a class="navbar-brand" href="http://localhost:4000/">			
+			<img src="http://localhost:4000/images/logopic/logo.png" style="width: 40px">
+	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="http://localhost:4000/">Home</a></li>
 		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/pictures">Research</a></li>
+		<li><a href="http://localhost:4000/research">Research</a></li>
+		<li><a href="http://localhost:4000/data">Data</a></li>
 		
-		<li><a href="http://localhost:4000/research">Contact Us</a></li>
+		<li><a href="http://localhost:4000/contact">Contact Us</a></li>
 		
 	  </ul>
 	</div>
   </div>
 </div>
 
->
+
 
     <div class="container-fluid">
       <div class="row">
         <div id="textid" class="col-sm-12">
   <h1 id="central-bank-communication">Central Bank Communication</h1>
 
-<p align="justify"> An investigation of labour market flows in a search and matching setting with public and private sectors, capital-skill complementarity and
-embodied technological progress, and heterogeneity of both households and workers. We assume a skill gap in this model to analyse changes in labour flows due to productivity increases and public wage premium. Further, we plan to model on-the-job search a la Moreno-Glabis and Sneessens (2007) between simple and complex jobs (for skilled individuals) and between public and private sector jobs (for all individuals). The heterogeneity between public and private sectors follows the framework by Gomes (2018). Here you will find work on</p>
+<p align="justify"> This workstream focuses on monetary policy and market reactions. Specifically, we are interested in whether policy information communicated in policy announcements drive market responses. We first focus on  policy decisions, market forecasts and disagreements and find that markets react both expectedly and unexpectedly, pointing to an information signal. We then model language extensively which is used to correlate with market reactions. One limiting factor was subsetting the data, for which we trained a transformer neural network to improve outcomes.   </p>
+<!-- Replace the text and the hiperlink for your papers. The hyperlink is a replication of the text but is lowercased and the whitespace " " is replaced with a "-". Only words are replication, not punctuation. -->
+<ul>
+  <li><a href="#do-markets-react-to-policy-announcements-yes-and-unexpectedly">Do markets react to policy announcements: Yes, and unexpectedly</a></li>
+  <li><a href="#sarb-policy-announcement-using-various-nlp-approaches-a-telling-story">SARB policy announcement using various NLP approaches: A telling story</a></li>
+  <li><a href="#how-do-markets-react-to-policy-announcements-information-is-important">How do markets react to policy announcements: Information is important</a></li>
+  <li><a href="#similarity-transformer-network-for-small-corpora">Similarity transformer network for small corpora</a></li>
+</ul>
 
+<!-- Divider -->
+<hr />
+<h2 id="do-markets-react-to-policy-announcements-yes-and-unexpectedly">Do markets react to policy announcements: Yes, and unexpectedly</h2>
+<div class="row">
+  <div class="col col-md-6">
+    <!-- replace with your paper figure -->
+    <img src="http://localhost:4000/images/pubpic/rates.png" alt="Conditional forecasting" width="500" height="300" />
+
+  </div>
+  <div class="col col-md-6">
+  <!-- replace title with your title -->
+  <h2>Monetary Policy and Market Reaction: Evidence from South Africa</h2>
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
+  <!-- replace with the date of publication -->
+  <p>TBD</p>
+  <!-- replace with your text -->
+  <p align="justify"> With this paper we analyse whether markets react to policy announcements. Using a combination of financial assets, we show that market react in expected and unexpected ways. As expected, when market forecasts are off markets react as expected by adapting to the new policy rate. However, When forecasts are correct, markets react by adjusting long term expectations even while controlling for forecast disagreement. This points to the presense of information signals present during communications.</p>
+  <!-- replace with your paper link -->
+  <!-- <a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/Can%20monetary%20and%20fiscal%20policy%20account%20for%20South%20Africa%27s%20economic%20stagnation.pdf" target="_blank">SARB Working Paper</a> -->
+
+  </div>
+</div>
+
+<!-- Divider -->
+<hr />
+
+<h2 id="sarb-policy-announcement-using-various-nlp-approaches-a-telling-story">SARB policy announcement using various NLP approaches: A telling story</h2>
+<div class="row">
+  <div class="col col-md-6">
+  <!-- replace with your paper figure -->
+    <img src="http://localhost:4000/images/pubpic/time-language.png" alt="Conditional forecasting" width="500" height="300" />
+
+  </div>
+  <div class="col col-md-6">
+  <!-- replace title with your title -->
+  <h2>Contemporary Computational Linguistics: Applications for South Africa</h2>
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
+  <!-- replace with the date of publication -->
+  <p>TBD</p>
+  <!-- replace with your text -->
+  <p align="justify"> With this work we summarize changes in the SARB's MPC statements using various computational linguistics techniques. This includes modelling for sentiment, time, topics and communication consistency. Our analysis shows a dynamic evolution of policy communication with gradual changes over time. Moreover, we see a convergence in later years to a standardized template signaling an improvement in policy framework communication. </p>
+  <!-- replace with your paper link -->
+  <!-- <a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/Can%20monetary%20and%20fiscal%20policy%20account%20for%20South%20Africa%27s%20economic%20stagnation.pdf" target="_blank">SARB Working Paper</a> -->
+
+  </div>
+</div>
+
+<!-- Divider -->
+<hr />
+
+<h2 id="how-do-markets-react-to-policy-announcements-information-is-important">How do markets react to policy announcements: Information is important</h2>
+<div class="row">
+  <div class="col col-md-6">
+  <!-- replace with your paper figure -->
+    <img src="http://localhost:4000/images/pubpic/sankey.png" alt="Conditional forecasting" width="500" height="300" />
+
+  </div>
+  <div class="col col-md-6">
+  <!-- replace title with your title -->
+  <h2>Central Bank Communications and Market Reaction: Evidence from South Africa</h2>
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
+  <!-- replace with the date of publication -->
+  <p>TBD</p>
+  <!-- replace with your text -->
+  <p align="justify"> This work shows the relationship between the language used in policy communications and market reactions. Using various NLP techniques, we create holistic metrics that show... </p>
+  <!-- replace with your paper link -->
+  <!-- <a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/Can%20monetary%20and%20fiscal%20policy%20account%20for%20South%20Africa%27s%20economic%20stagnation.pdf" target="_blank">SARB Working Paper</a> -->
+
+  </div>
+</div>
+
+<h2 id="similarity-transformer-network-for-small-corpora">Similarity transformer network for small corpora</h2>
+<div class="row">
+  <div class="col col-md-6">
+  <!-- replace with your paper figure -->
+    <img src="http://localhost:4000/images/pubpic/kmeans_reduced_news.png" alt="Conditional forecasting" width="500" height="300" />
+
+  </div>
+  <div class="col col-md-6">
+  <!-- replace title with your title -->
+  <h2>Simtran: Similarity Transformer Architecture for Language Classification Tasks</h2>
+  <!-- replace author with your name and link -->
+  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor, Ruan van der Merwe</a> </p>
+  <!-- replace with the date of publication -->
+  <p>TBD</p>
+  <!-- replace with your text -->
+  <p align="justify"> One issue facing various economists using contemporary computational linguistics is the problem of subsetting small text corpora. The issue centers around linear seperability in short and dense corpora, like various economic text. This model aims to solve the problem by transforming sentence embeddings into more similar embeddings, thereby improving seperability with auxiliry clustering. Our results show significant improvements in cluster validation metrics. </p>
+  <!-- replace with your paper link -->
+  <!-- <a href="https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/Can%20monetary%20and%20fiscal%20policy%20account%20for%20South%20Africa%27s%20economic%20stagnation.pdf" target="_blank">SARB Working Paper</a> -->
+
+  </div>
+</div>
 
 </div>
 
@@ -65,21 +169,40 @@ embodied technological progress, and heterogeneity of both households and worker
 	  <div class="row">
 		<div class="col-sm-4">
 
-		  <p>&copy 2023 Macro Lab at Tuks. <br />Site made with <a href="https://jekyllrb.com">Jekyll</a><br /></p>
-
-
-		   <p>  </p><p>
+			<center>
+				<figure class="second">
+				 
+				  <img src="http://localhost:4000/images/logopic/tuks.png" style="width: 250px">
+				</figure>
+				</center>
 
 
 		</div>
 		<div class="col-sm-4">
+			<center>
+				<figure class="second">
+				 
+					<img src="http://localhost:4000/images/logopic/sarb.png" style="width: 150px">
+				</figure>
+				</center>
+			
 		  
 		</div>
-		<div class="col-sm-4">
+		<!-- <div class="col-sm-4">
 		  Contact:<br />
 		  Tukkiewerf Building, University of Pretoria<br />
 		  Lynnwood Road, Pretoria, South Africa<br />
-			</div>
+			</div> -->
+		<div class="col-sm-4">
+			<center>
+				<figure class="second">
+				 
+					<img src="http://localhost:4000/images/logopic/logo.png" style="width: 100px">
+				</figure>
+				</center>
+			
+		  
+		</div>
 	  </div>
 	</div>
   </div>

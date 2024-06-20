@@ -1,7 +1,7 @@
 ---
-title: "Macro Lab at Tuks"
+title: "UP-Macro Lab"
 layout: homelay
-excerpt: "Macro Lab at the University of Pretoria"
+excerpt: "UP-Macro Lab"
 sitemap: #false
 permalink: /
 ---
@@ -21,6 +21,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
               <div class="text">
           <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
@@ -29,21 +30,57 @@ permalink: /
           <p> With the continued introduction and enhancements to prudential regulations with the aim of strengthening banking systems, a natural question arises as to whether prudential regulation is a hindrance to credit extension and / or access to credit, especially in emerging markets? This study thereof estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.
           </p>      
          </div>  
+
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/qpm.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" />
+            <div class="text">
+              <h3>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h3>
+              <p> Publish Date: 19-01-2024 </p>
+              <p> Authors: Tumisang Loate, Nicola Viegi</p>
+              <p>Historical relationships between the macro-fiscal variables indicate a much higher economic growth in South Africa. We explore the role of both fiscal and monetray policy and find little evidence that the realised low economic growth can be rationed by the two policies, especially monetary policy. 
+              </p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/qpm2.png" alt="Slide 3" />
+            <div class="text">
+              <h3>Title of this work</h3>
+              <p> Publish Date: </p>
+              <p> Authors: </p>
+              <p>This is the text for Image 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              </p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" alt="Slide 4" />
+            <div class="text">
+              <h3>Title of this work</h3>
+              <p> Publish Date: </p>
+              <p> Authors: </p>
+              <p>This is the text for Image 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              </p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png" alt="Slide 5" />
+            <div class="text">
+              <h3>Title of this work</h3>
+              <p> Publish Date: </p>
+              <p> Authors: </p>
+              <p>This is the text for Image 5. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              </p>
+            </div>
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res4.png" alt="Slide 6" />
+                    <div class="text">
+              <h3>Title of this work</h3>
+              <p> Publish Date: </p>
+              <p> Authors: </p>
+                <p>This is the text for Image 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              </p>
+            </div>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -56,16 +93,12 @@ permalink: /
   </a>
 </div>
 
-<p align="justify">The South African Reserve Bank Chair at the University of Pretoria was instituted in 2007 with the objective of advancing research in monetary policy studies. We work closely with the Economic Department of the South African Reserve Bank on topics relevant to the South African economy while keeping in touch with recent developments at the international scene. Specifically, we focus in the areas of macroeconomic modelling, forecasting, fiscal and monetary policy coordination, credit market, central banking communication and labour market macro modelling.</p>
-
-<p align="justify">Through supervision of master and Ph.D students  and the organization of annual workshops, we hope to spark interest in research on the aforementioned topics and beyond. This allows us to reach out to a broader audience for a fruitful discussion among peers and contribution to debates on relevant topics.</p>
 
 
 
-
-<center>
+<!-- <center>
 <figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sarb.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tuks.png" style="width: 250px">
 </figure>
-</center>
+</center> -->
