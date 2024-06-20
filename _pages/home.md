@@ -26,7 +26,7 @@ permalink: /
               <div class="text">
           <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
           <p> Publish Date: 2024</p>
-           <p> Author<a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
+           <p> Author: X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
           <p> With the continued introduction and enhancements to prudential regulations with the aim of strengthening banking systems, a natural question arises as to whether prudential regulation is a hindrance to credit extension and / or access to credit, especially in emerging markets? This study thereof estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.
           </p>      
          </div>  
