@@ -21,7 +21,14 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/repo.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
+              <div class="text">
+          <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
+          <p> Publish Date: 2024</p>
+           <p> Author<a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
+          <p> With the continued introduction and enhancements to prudential regulations with the aim of strengthening banking systems, a natural question arises as to whether prudential regulation is a hindrance to credit extension and / or access to credit, especially in emerging markets? This study thereof estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.
+          </p>      
+         </div>  
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/qpm.png" alt="Slide 2" />
