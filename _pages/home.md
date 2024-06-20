@@ -31,12 +31,12 @@ permalink: /
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/qpm.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" />
             <div class="text">
-              <h3>Title of this work</h3>
-              <p> Publish Date: </p>
-              <p> Authors: </p>
-              <p>This is the text for Image 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
+              <h3>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h3>
+              <p> Publish Date: 19-01-2024 </p>
+              <p> Authors: Tumisang Loate, Nicola Viegi</p>
+              <p>Historical relationships between the macro-fiscal variables indicate a much higher economic growth in South Africa. We explore the role of both fiscal and monetray policy and find little evidence that the realised low economic growth can be rationed by the two policies, especially monetary policy. 
               </p>
             </div>
         </div>

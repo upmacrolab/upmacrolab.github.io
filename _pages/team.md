@@ -6,8 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# The Team
+# About us
 
+<p align="justify"> We are a data-driven research hub for macroeconomic issues facing emerging countries and providing learning-by-doing experience for scholars and researchers. </p>
 
 ## The Chair
 
