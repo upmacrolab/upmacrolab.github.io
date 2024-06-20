@@ -18,7 +18,7 @@ permalink: /macropru.html/
 
 
 ## Regulation and bank lending in South Africa: A narrative index approach
-=======
+
 
 <div class="row">
   <div class="col col-md-6" markdown="0">
@@ -48,7 +48,7 @@ permalink: /macropru.html/
 <!-- Divider -->
 ---
 ## Bank lending and macroprudential regulation: A narrative approach
-=======
+
 
 <div class="row">
   <div class="col col-md-6" markdown="0">
