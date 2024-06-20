@@ -21,14 +21,16 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="900" height="500" alt="Slide 1" />
-            <div class="text">
-              <h3>Policy Communications and Market Reactions: Evidence for the SARB</h3>
-              <p> Publish Date: 2023</p>
-               <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
-              <p>After the GFC central banks turned to communication strategies in order to anchor expectations. A decade on, the question remains whether communication can be used in such a way. We explore the relationship between SARB MPC statements and market surprises at a text-data level, and find that overal the implimentation of forward looking language has reduced overal shocks
-              </p>      
-            </div>
+
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
+              <div class="text">
+          <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
+          <p> Publish Date: 2024</p>
+           <p> Author<a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
+          <p> With the continued introduction and enhancements to prudential regulations with the aim of strengthening banking systems, a natural question arises as to whether prudential regulation is a hindrance to credit extension and / or access to credit, especially in emerging markets? This study thereof estimates and contrasts the impact of macroprudential and financial inclusion policies. The results suggest that macroprudential policy is working as intended as it is associated with increases in interest rates on unsecured lending rates, decreases in short-term secured and mortgage lending rates.
+          </p>      
+         </div>  
+
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" />
