@@ -22,7 +22,7 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.jpg" alt="Conditional forecasting"  width="500" height="300"/> 
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.png" alt="Conditional forecasting"  width="500" height="300"/> 
               <div class="text">
           <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
           <p> Publish Date: 2024</p>
