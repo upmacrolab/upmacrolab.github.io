@@ -22,7 +22,7 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.png" alt="Conditional forecasting"  width="900" height="500"/> 
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rates2.png" alt="Conditional forecasting"  width="700" height="400"/> 
               <div class="text">
           <h3> Regulation and bank lending in South Africa: A narrative index approach</h3>
           <p> Publish Date: 2024</p>
@@ -33,7 +33,7 @@ permalink: /
 
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" width="900" height="400"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" width="700" height="400"/>
             <div class="text">
               <h3>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h3>
               <p> Publish Date: 19-01-2024 </p>
@@ -43,7 +43,7 @@ permalink: /
             </div>
         </div>
         <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="900" height="500" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="700" height="400" alt="Slide 1" />
             <div class="text">
               <h3>Policy Communications and Market Reactions: Evidence for the SARB</h3>
               <p> Publish Date: 2023</p>
