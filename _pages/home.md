@@ -33,7 +33,7 @@ permalink: /
 
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" width="900" height="500"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/stagnation_macro.png" alt="Conditional forecasting" width="900" height="400"/>
             <div class="text">
               <h3>Can monetary and fiscal policy account for South Africa’s economic stagnation?</h3>
               <p> Publish Date: 19-01-2024 </p>
