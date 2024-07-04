@@ -12,7 +12,12 @@ img { margin-bottom: 24px;
 body {
 	padding-top: 70px;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 figcaption {
     text-align: right;
     margin-top: -20px;
