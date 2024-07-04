@@ -53,36 +53,10 @@ permalink: /
             </div>
  
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" alt="Slide 4" />
-            <div class="text">
-              <h3>Title of this work</h3>
-              <p> Publish Date: </p>
-              <p> Authors: </p>
-              <p>This is the text for Image 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
-              </p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png" alt="Slide 5" />
-            <div class="text">
-              <h3>Title of this work</h3>
-              <p> Publish Date: </p>
-              <p> Authors: </p>
-              <p>This is the text for Image 5. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
-              </p>
-            </div>
+
+
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res4.png" alt="Slide 6" />
-                    <div class="text">
-              <h3>Title of this work</h3>
-              <p> Publish Date: </p>
-              <p> Authors: </p>
-                <p>This is the text for Image 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo sit amet quam congue commodo. Sed eu quam vitae libero pharetra varius non vel elit. Duis ac sem sem. Sed cursus nisi sit amet est aliquam, in mollis mi lacinia. Nulla facilisi. Donec tincidunt lectus vel enim venenatis tristique. Aliquam euismod aliquet justo, id cursus nisl sodales nec. Cras fermentum magna id dui hendrerit, in commodo lacus laoreet. Nulla vitae nisi et lectus lobortis lacinia. Suspendisse sit amet faucibus magna, nec scelerisque leo. Vivamus venenatis nibh in luctus facilisis. Donec tincidunt gravida velit. Nullam malesuada lorem ac nu
-              </p>
-            </div>
-        </div>
+
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
