@@ -53,10 +53,6 @@ permalink: /
             </div>
  
         </div>
-
-
-        </div>       
-
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
