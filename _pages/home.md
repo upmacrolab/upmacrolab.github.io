@@ -17,14 +17,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
@@ -58,7 +51,7 @@ permalink: /
               <p>After the GFC central banks turned to communication strategies in order to anchor expectations. A decade on, the question remains whether communication can be used in such a way. We explore the relationship between SARB MPC statements and market surprises at a text-data level, and find that overal the implimentation of forward looking language has reduced overal shocks
               </p>      
             </div>
-
+<!-- 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" alt="Slide 4" />
@@ -90,8 +83,15 @@ permalink: /
               </p>
             </div>
         </div>
-    </div>
-
+    </div> -->
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
