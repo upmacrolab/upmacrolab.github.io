@@ -43,7 +43,7 @@ permalink: /
             </div>
         </div>
         <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="700" height="400" alt="Slide 1" />
+        
             <div class="text">
               <h3>Policy Communications and Market Reactions: Evidence for the SARB</h3>
               <p> Publish Date: 2023</p>
@@ -51,6 +51,7 @@ permalink: /
               <p>After the GFC central banks turned to communication strategies in order to anchor expectations. A decade on, the question remains whether communication can be used in such a way. We explore the relationship between SARB MPC statements and market surprises at a text-data level, and find that overal the implimentation of forward looking language has reduced overal shocks
               </p>      
             </div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/time-language.png" width="700" height="400" alt="Slide 1" />
  
         </div>
     </div> 
