@@ -51,7 +51,7 @@ permalink: /
               <p>After the GFC central banks turned to communication strategies in order to anchor expectations. A decade on, the question remains whether communication can be used in such a way. We explore the relationship between SARB MPC statements and market surprises at a text-data level, and find that overal the implimentation of forward looking language has reduced overal shocks
               </p>      
             </div>
-        </div>
+
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" alt="Slide 4" />
