@@ -32,7 +32,7 @@ permalink: /macropru.html/
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
 
-  <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
+  <h4>Estimating the effects of macroprudential and finacial regulation. </h4>
 
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
@@ -60,7 +60,7 @@ permalink: /macropru.html/
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
 
-  <h2>Estimating the effects of macroprudential regulation on bank lending.</h2>
+  <h4>Estimating the effects of macroprudential regulation on bank lending.</h4>
 
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
@@ -89,7 +89,7 @@ permalink: /macropru.html/
   <div class="col col-md-6" markdown="0">
   <!-- replace title with your title -->
 
-  <h2>Major macroprudential regulatory changes in South Africa.</h2>
+  <h4>Major macroprudential regulatory changes in South Africa.</h4>
 
   <!-- replace author with your name and link -->
   <p> Author <a href="https://https://keamncube.github.io/">Keaoleboga Mncube</a> </p>
