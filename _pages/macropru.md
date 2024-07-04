@@ -35,7 +35,7 @@ permalink: /macropru.html/
   <h2>Estimating the effects of macroprudential and finacial regulation. </h2>
 
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch, N. Viegi.</a> </p>
+  <p> Author <a href="https://https://keamncube.github.io/">X. Sibande, D. Nxumalo, K. Mncube, S. Koch and N. Viegi.</a> </p>
   <!-- replace with the date of publication -->
   <p>Publish Date</p>
   <!-- replace with your text -->
