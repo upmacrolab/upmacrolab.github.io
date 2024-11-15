@@ -103,7 +103,7 @@ permalink: /cbcom.html/
   <!-- replace title with your title -->
   <h4>Simtran: Similarity Transformer Architecture for Language Classification Tasks</h4>
   <!-- replace author with your name and link -->
-  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor, Ruan van der Merwe</a> </p>
+  <p> Author <a href="https://charlvschoor.github.io/">Charl van Schoor</a> </p>
   <!-- replace with the date of publication -->
   <p>TBD</p>
   <!-- replace with your text -->
